@@ -1,7 +1,3 @@
-def menu():
-    print("1. ")
-    print("2. Salir")
-
 cantidad_valida = False
 analistas = 0
 gerentes= 0
